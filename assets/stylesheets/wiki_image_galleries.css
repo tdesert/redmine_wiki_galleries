@@ -1,0 +1,17 @@
+.wiki_image_gallery a {
+	display: block;
+	float: left;
+	text-align: center;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	border: 1px solid gray;
+}
+
+.wiki_image_gallery hr {
+	border: 0px;
+	line-height: 0px;
+	margin: 0px;
+	padding: 0px;
+	border-style: none;
+	clear: both;
+}
