@@ -19,3 +19,7 @@ In your Redmine wiki pages, use the following macro to create galleries with att
 	{{gallery("attachment_1", "attachment_2", ...)}}
 
 This will create a lightbox gallery with the provided attachment files.
+
+## TODO
+
+* Support for inline single images

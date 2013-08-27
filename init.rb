@@ -5,7 +5,7 @@ Redmine::Plugin.register :redmine_wiki_galleries do
   author 'Thomas Desert'
   description 'Lightbox galleries enabled in wiki pages'
   version '0.0.1'
-  url 'http://husht.org'
+  url 'https://github.com/tdesert/redmine_wiki_galleries'
   author_url 'http://husht.org/about'
 end
 
